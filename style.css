@@ -1,0 +1,209 @@
+header{
+	background-image: url('assets/Img/sea.jpg');
+	padding: 55px;
+	padding-top: 10px;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.heaver-top {
+    padding: 41px;
+}
+.header-phone h4 {
+    font-size: 15px;
+    text-align: right;
+    font-weight: 600;
+    color: #fff;
+}
+
+.header-menu nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.header-menu nav ul li {
+    display: inline-block;
+    margin-left: -64px;
+    padding-top: 18px;
+}
+
+.header-menu nav ul li a {
+    color: #03e8ff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 11px;
+    background-color: #fff;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 22px;
+}
+.hero-area {
+    margin-top: 100px;
+}
+
+.header-content p {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 500;
+    border: 2px dashed #000000;
+    padding: 7px;
+    margin-left: 16px;
+    color: #ff3d10;
+}
+.header-content h2 {
+    font-size: 130px;
+    color: #fff;
+}
+.header-content h4 {
+    font-size: 80px;
+    padding: 10px;
+    margin-top: -42px;
+    color: #fff;
+}
+.banner-img1 img {
+    margin-left: -164px;
+}
+
+.banner-img2 img {
+    margin-top: -412px;
+    margin-left: 288px;
+}
+.banner-img3 img {
+    margin-top: -357px;
+    margin-left: -33px;
+}
+.banner-img4 img {
+    margin-left: -166px;
+    margin-top: -170px;
+}
+
+.banner-img4 h3 {
+    margin-top: -158px;
+    color: #fff;
+    text-align: center;
+    margin-left: -601px;
+    font-weight: 300;
+}
+.box span {
+    font-size: 72px;
+}
+.banner-img6 img {
+	margin-left: 190px;
+	margin-top: -47px;
+}
+
+.banner-img7 img {
+    margin-top: -30px;
+    margin-left: -106px;
+}
+.gallery-img img {
+    
+position: relative;
+    
+margin-left: -69px;
+}
+.gallery-img h4 {
+    left: 0;
+    position: absolute;
+    top: 41px;
+    color: #fff;
+}
+section.gallery {
+    padding: 101px;
+}
+
+.gallery-img h4 span {
+    font-size: 35px;
+}
+.try-it img {
+    position: relative;
+    margin-bottom: 44px;
+}
+
+.try-it h4 {
+    left: 56px;
+    position: absolute;
+    top: 27px;
+    color: #fff;
+    font-size: 30px;
+    text-align: left;
+    text-transform: uppercase;
+}
+section.our-food {
+    text-align: center;
+    color: #3d2514;
+    padding-bottom: 50px;
+}
+
+.food-title h4 {
+    background-color: #90d7de;
+    height: 51px;
+    width: 363px;
+    padding: 14px;
+    text-align: center;
+    border-radius: 17px;
+    margin: auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+}
+
+.food-title {
+    padding-bottom: 32px;
+}
+section.our-food h2 {
+    text-transform: uppercase;
+    font-size: 55px;
+    font-weight: 900;
+}
+
+section.our-food p {
+    font-size: 17px;
+    /* text-transform: uppercase; */
+}
+section.our-fooditem {
+    padding: 0px 98px;
+    padding-bottom: 100px;
+}
+img.b1 {
+    margin-top: 42px;
+}
+img.shadow3 {
+    padding: 1px;
+    margin: 0px 0 0 -31px;
+}
+img.shadow1 {
+    margin: 20px -44px;
+}
+
+img.shadow2 {
+    margin: -5px -44px;
+}
+
+section.our-fooditem h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 31px;
+    font-weight: 700;
+    color: #3d2514;
+}
+
+h2.titel {
+    margin-top: 18px;
+}
+
+section.our-fooditem p {
+    text-align: center;
+    color: #3d2514;
+}
+button.obtn {
+    text-transform: uppercase;
+    font-size: 21px;
+    margin: 0 100px;
+    background-color: #90d7de;
+    border: none;
+    color: #fff;
+    width: 171px;
+    padding: 10px;
+    font-weight: 700;
+}
